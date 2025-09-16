@@ -1,2 +1,3 @@
-# theoaltneu.github.io
-Personal Project Portfolio Website
+# Theo Altneu 
+## Project Portfolio
+[LinkedIn](https://www.linkedin.com/in/theo-altneu/)
